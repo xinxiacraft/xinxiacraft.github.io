@@ -4,8 +4,8 @@ title: 轨道交通天堂
 ---
 {% assign accidentpage = site.pages | where: "permalink", "/accident.html" | first %}
 {% if accidentpage.accident != null %}
-  <div style="box-shadow:5px 5px 10px black;border-color:#faebcc;margin-bottom:2em;">
-    <div style="background-color:{{accidentpage.color}};padding:10px 15px">
+  <div style="box-shadow:5px 5px 10px black;border-color:#faebcc;margin-bottom:2em;border-radius:5px">
+    <div style="background-color:{{accidentpage.color}};padding:10px 15px;border-radius:5px 5px 0 0">
         <a href="/accident.html" style="font-size:1.5em;margin:0"><b>⚠{{accidentpage.accident}}</b></a>
     </div>
     <div style="line-height:2em;padding:15px 15px 0 15px">

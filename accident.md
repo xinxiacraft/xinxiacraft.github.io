@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "运行事故"
 permalink: /accident.html

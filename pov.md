@@ -4,4 +4,4 @@ title: POV
 permalink: /pov.html
 ---
 
-<p style="color:red">¹ÊÕÏ</p>
+<p style="color:red">æ•…éšœ</p>
