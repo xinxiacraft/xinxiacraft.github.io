@@ -45,7 +45,7 @@ permalink: /aboutcity.html
 @column
 <p style="font-size:1.5em;color:black">樱花村</p>
 樱花村位于北府区，是峡东唯一一个樱花主题的古村庄。景区交通便利，5号线樱花山站可直达景区（未来可换乘1号线）
-
-#地铁线路介绍
+@row
+<p style="font-size:1.75em;color:black">地铁线路介绍</p>
 @row
 <p style="font-size:1.5em;color:black">峡东地铁1号线</p>
