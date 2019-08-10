@@ -1,18 +1,12 @@
----
+﻿---
 layout: page
 title: "关于"
 permalink: /about.html
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+在新峡工艺成立前，峡东工艺早在2018.8就成立了，其前身是网易版峡东服务器建设小组。峡东工艺成立以来，我们广泛涉足多领域，目前已经在城市轨道交通建设及运营，城建及其规划两大领域取得了一定的成就。
+我们还注重全域旅游开发，自峡东被评为全域旅游示范城市以来，我们不断的向外界学习，在全域旅游开发取得了一定的进步。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
 
 
 [jekyll-organization]: https://github.com/jekyll
