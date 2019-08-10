@@ -21,6 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   期该拉极知准建平专几做，中七它阶主放心听格会，眼石件Q维采车及油中。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://xinxiacraft.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+author: ©XinXiaCraft 技术支持 zbx1425
 github_username: zbx1425
 
 # Build settings

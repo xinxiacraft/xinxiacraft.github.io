@@ -1,5 +1,6 @@
 ---
 layout: default
+title: 轨道交通天堂
 ---
 {% assign accidentpage = site.pages | where: "permalink", "/accident.html" | first %}
 {% if accidentpage.accident != null %}
