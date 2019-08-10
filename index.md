@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: grid
 title: 首页
 ---
 {% assign accidentpage = site.pages | where: "permalink", "/accident.html" | first %}
