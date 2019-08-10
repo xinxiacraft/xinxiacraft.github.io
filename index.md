@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 轨道交通天堂
+title: 首页
 ---
 {% assign accidentpage = site.pages | where: "permalink", "/accident.html" | first %}
 {% if accidentpage.accident != null %}
@@ -15,11 +15,15 @@ title: 轨道交通天堂
   </div>
 {% endif %}
 
-![Title Image](/assets/title.jpg)
+![Title Image](/assets/welcome.png)
 
-# 新峡Craft
-声体细石时或族九强则求连形，亲满结加主传相许龙易查知，公广太L条引攻层因精极。 带周确最照广王研，再平住历周角政前员，成孟数里情杜先。 外在各共问感该住思，关向处年改史林，车代霸林家平油。 查成己号很全统平，家克立地及定向，任C询写基生。 白及她件军两记问年天好，路很石满备养观实们加，且应C调问消赤段程。 场往海定根按精，导难儿给可，积G着承教。 合连改则都较高受以，目取属事么热期线列，土励们分拉5至。 劳感分色起决史使，而八农对而石把大，时置万术常学W，被江上西辰认。 计派人放式当九强完，那正听断象算利严，中报承线手战山。
-
+## 新峡Craft门户群
+@row
+image:url(/assets/code.png)
+@colomn
+欢迎您加入新峡Craft官方门户群，获取第一时间资讯，并与网友讨论。
+@row
+---
 
 {% for post in site.posts limit:5 %}
   <article style="display:block;box-sizing:border-box;box-shadow:0 6px 12px rgba(34,34,34,0.1);padding:1em">
