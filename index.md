@@ -19,8 +19,8 @@ title: 首页
 
 ## 新峡Craft门户群
 @row
-image:url(/assets/code.png)
-@colomn
+![群码](/assets/code.png)
+@column
 欢迎您加入新峡Craft官方门户群，获取第一时间资讯，并与网友讨论。
 @row
 ---
