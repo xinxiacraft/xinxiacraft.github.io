@@ -51,6 +51,7 @@ permalink: /aboutcity.html
 ### 地铁线路介绍
 @row
 #### 峡东地铁1号线
+供电方式:接触网
 @column
 #### 峡东地铁2号线
 @row
