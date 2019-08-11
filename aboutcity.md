@@ -58,6 +58,7 @@ permalink: /aboutcity.html
 #### 峡东地铁4号线
 @column
 #### 峡东地铁5号线
+供电方式:第三轨
 @row
 #### 峡东地铁13号线
 标志色:品红色
