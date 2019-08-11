@@ -1,6 +1,7 @@
 ---
 layout: grid
-title: 首页
+notitleh1: true
+title: 轨道交通天堂
 ---
 {% assign accidentpage = site.pages | where: "permalink", "/accident.html" | first %}
 {% if accidentpage.accident != null %}
@@ -24,9 +25,9 @@ title: 首页
 加入新峡Craft门户群，您可以第一时间获取资讯，可以与各路网友交谈，也可以ll会友哦(x)
 赶快来加入吧！
 @row
-## 主要动态浏览
------
 
+-----
+### 最新动态
 {% for post in site.posts limit:5 %}
   <article style="display:block;box-sizing:border-box;box-shadow:0 6px 12px rgba(34,34,34,0.1);padding:1em">
     <h3 style="margin-bottom:0;margin-top:0.5em">
