@@ -1,5 +1,5 @@
 ---
-layout: grid
+layout: default
 notitleh1: true
 title: 轨道交通天堂
 ---
@@ -18,13 +18,17 @@ title: 轨道交通天堂
 
 ![Title Image](/assets/welcome.png)
 
-@row
-![群码](/assets/code.png)
-@column
-## 新峡Craft门户群
-加入新峡Craft门户群，您可以第一时间获取资讯，可以与各路网友交谈，也可以ll会友哦(x)
-赶快来加入吧！
-@row
+<div class="row">
+    <div class="col-sm-3 col-xs-4">
+        <img src="/assets/code.png" />
+    </div>
+    
+    <div class="col-sm-9 col-xs-8">
+        <h2>新峡Craft门户群</h2>
+        <p>加入新峡Craft门户群，您可以第一时间获取资讯，可以与各路网友交谈，也可以ll会友哦(x)</p>
+        <p>赶快来加入吧！</p>
+    </div>
+</div>
 
 -----
 ### 最新动态
