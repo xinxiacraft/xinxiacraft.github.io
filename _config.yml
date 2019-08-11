@@ -14,14 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 新峡Craft
-email: 2642441311@qq.com
+email: 1324696663@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-  与流么员政称信空米，现精打门积将列，战发-豆认卖呆。
-  明证六给们飞家七周数县低权间，己向千可教孟些吼能以厕。
-  期该拉极知准建平专几做，中七它阶主放心听格会，眼石件Q维采车及油中。
+  新峡Craft期待您的光临！
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://xinxiacraft.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-author: ©XinXiaCraft 技术支持 zbx1425
+author: Copyright © 2019-2020 XinxiaCraft.All Rights Reserved. 
+ Powered by zbx1425.
 github_username: zbx1425
 
 # Build settings
