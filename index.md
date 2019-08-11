@@ -21,9 +21,9 @@ title: 首页
 ![群码](/assets/code.png)
 @column
 ## 新峡Craft门户群
-加入新峡Craft门户群，您可以第一时间获取资讯，可以与各路网友交谈，还可以以ll会友哦(x)。赶快加入吧！
+加入新峡Craft门户群，您可以第一时间获取资讯，可以与各路网友交谈，也可以ll会友哦(x)。赶快来加入吧！
 @row
-
+## 主要动态浏览
 -----
 
 {% for post in site.posts limit:5 %}
