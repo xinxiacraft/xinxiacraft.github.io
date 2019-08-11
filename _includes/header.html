@@ -5,8 +5,7 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
-    {%- if page_paths -%}
-      <nav class="site-nav">
+      <nav class="site-nav" style="z-index:114514">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
 		
         <label for="nav-trigger">
@@ -26,6 +25,5 @@
             <a class="page-link" href="/about.html">关于新峡</a>
         </div>
       </nav>
-    {%- endif -%}
   </div>
 </header>
