@@ -17,13 +17,14 @@ title: 首页
 
 ![Title Image](/assets/welcome.png)
 
-## 新峡Craft门户群
 @row
-image:url(/assets/code.png)
-@colomn
+![群码](/assets/code.png)
+@column
+## 新峡Craft门户群
 欢迎您加入新峡Craft官方门户群，获取第一时间资讯，并与网友讨论。
 @row
----
+
+-----
 
 {% for post in site.posts limit:5 %}
   <article style="display:block;box-sizing:border-box;box-shadow:0 6px 12px rgba(34,34,34,0.1);padding:1em">
