@@ -33,6 +33,7 @@ title: 轨道交通天堂
 -----
 ### 最新动态
 {% for post in site.posts limit:5 %}
+{% if post.homepage %}
   <article style="display:block;box-sizing:border-box;box-shadow:0 6px 12px rgba(34,34,34,0.1);padding:1em">
     <h3 style="margin-bottom:0;margin-top:0.5em">
       <a href="{{ post.url }}">
@@ -45,4 +46,5 @@ title: 轨道交通天堂
     <img src="{{ post.image }}" style="width:100%;border-radius:1em;margin-top:1em" />
     {% endif %}
   </article>
+{% endif %}
 {% endfor %}
