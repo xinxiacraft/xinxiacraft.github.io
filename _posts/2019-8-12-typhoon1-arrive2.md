@@ -8,7 +8,7 @@ homepage: true
 目前新园地区已超过警戒水位，从峡东市气象局了解到，目前降水量约为124mm/h，截止记者发稿前，内涝已经非常严重，部分市民被吹飞。苏河客运站地铁站站厅发生漏水，站内积水严重。  
 峡东站等市区各大换乘站客流拥挤。缪斯广场站和七道口站已经发放免费ll痛雨衣雨伞。  
 一架飞机在苏河发生坠毁意外，请市民不要靠近。事故原因正在调查中，初步判断为强对流天气导致的微下击暴流。
-        <img src="/assets/typhoon1.png" class="pull-left image-thumbnail"/>
+<img src="/assets/typhoon1.png" style="width:300px" class="pull-left image-thumbnail"/>
 峡东地铁停运信息:  
 各线路高架区间（1/5/11号线除外)  
 崛川铁道停运信息:  
