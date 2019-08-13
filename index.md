@@ -30,6 +30,19 @@ title: 轨道交通天堂
     </div>
 </div>
 
+<div class="row">
+    <div class="col-sm-3 col-xs-4">
+        <img src="/assets/map20190813.png" />
+    </div>
+    
+    <div class="col-sm-9 col-xs-8">
+        <h2>峡东轨道交通线网图</h2>
+        <p>您查阅本线路图可以获取峡东轨道交通最新的线路情况哦(</p>
+		<p>（关于崛川铁道、崛川城轨和市郊铁路线请您查阅城市介绍）</p>
+		<p>更新日期:2019.8.13 v3<p>
+    </div>
+</div>
+
 -----
 ### 最新动态
 {% for post in site.posts limit:5 %}
