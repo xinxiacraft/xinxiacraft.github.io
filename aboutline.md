@@ -5,7 +5,7 @@ permalink: /aboutline.html
 ---
 
 ### 峡东轨道交通线网图
-<a href="/assets/map20190813.png"><img src="/assets/map20190813.png" style="width:100%"/></a>
+<a href="/assets/map20190813.png"><img src="/assets/map20190813b.png" style="width:100%"/></a>
 您查阅本线路图可以获取峡东轨道交通最新的线路情况。  
 （关于崛川铁道、崛川城轨和市郊铁路线请您查阅下方介绍）  
 点击可放大。  
