@@ -5,7 +5,7 @@ permalink: /aboutline.html
 ---
 
 ### 峡东轨道交通线网图
-<a href="/assets/map20190813b.png"><img src="/assets/map20190813b.png" style="width:100%"/></a>
+<a href="/assets/map20200118.png"><img src="/assets/map20200118.png" style="width:100%"/></a>
 您查阅本线路图可以获取峡东轨道交通最新的线路情况。  
 （关于崛川铁道、崛川城轨和市郊铁路线请您查阅下方介绍）  
 点击可放大。  
@@ -48,7 +48,7 @@ permalink: /aboutline.html
 #### 市郊线路S3线(北港线)
 ### 崛川铁道下属线路介绍
 #### 林海线
-#### 林海线-白户支线
+#### 白石线·白户线·白户东线
 标志色:亮黄色  
 列车规格:6B  
 供电方式:接触网  
